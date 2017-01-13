@@ -8,6 +8,6 @@ A [chef](https://www.chef.io/) cookbook to deploy AWS CodeDeploy Agent to Amazon
 
 Just use ow-aws-codedeploy-agent::agent-install
 
-## Author and Contributors
+## Author
 
 Author: [Patrick Schaumburg](https://www.p-schaumburg.de/) ([@pschaumburg](https://github.com/pschaumburg))
